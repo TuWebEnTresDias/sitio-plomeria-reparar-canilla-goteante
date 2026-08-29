@@ -1,0 +1,8 @@
+# Goteo Cero
+Micro-sitio de servicio de plomería en Capital Federal, Argentina.
+- Servicio: reparación de canillas goteantes, con diagnóstico, repuesto y sin romper el revestimiento.
+- Zona: Capital Federal (CABA).
+- Horario: 9 a 18 hs.
+- Contacto: WhatsApp.
+- Enfoque: ahorro de agua y de cuenta; se arregla la pieza que falla, no toda la canilla.
+- Páginas: inicio con hero, servicio, por qué importa arreglarla, cobertura, testimonios, FAQ y formulario de contacto.
