@@ -1,5 +1,5 @@
 /* ===========================================================
-   Goteo Cero — micro-sitio #2 (canilla goteante, CABA)
+   Goteo Cero — canilla goteante, CABA
    Lógica mínima: formulario -> chat de WhatsApp (wa.me)
    El número es un placeholder [WHATSAPP] hasta que se provea.
    =========================================================== */
